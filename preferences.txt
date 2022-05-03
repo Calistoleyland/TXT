@@ -1,0 +1,5 @@
+Favorite_film - Mulholland drive
+Favorite_serial - Twin Peaks 
+Favorite_food - sea food
+Favorite_season - Summer, Autumn
+conutry - Iceland
