@@ -1,0 +1,4 @@
+FIO - Masliy Diana Dmitrievna
+age - 25
+Number_of_pets - 3
+Future_salary - 80 тыс.
